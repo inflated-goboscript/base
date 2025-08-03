@@ -7,7 +7,7 @@ It is designed to be used with [inflator](https://github.com/faretek1/inflator).
 
 ## Credits
 
-...
+https://www.rapidtables.com/convert/number/base-converter.html
 
 ## Installation
 
