@@ -1,10 +1,11 @@
 costumes "blank.svg";
 
 %include inflator/assert
+%include inflator/math
 %include inflator/string
 %include inflator/base
 
 onflag {main;}
 proc main {
-
+    assert_eq base_conv("457JIOJOI", DIGITS & ASCII_UPPERCASE, B16_DIGITS), "AA269EDA7A2", "base_conv";
 }
