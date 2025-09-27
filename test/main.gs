@@ -1,9 +1,9 @@
-costumes "blank.svg";
-
 %include inflator/assert
 %include inflator/math
 %include inflator/string
 %include inflator/base
+
+costumes "blank.svg";
 
 onflag {main;}
 proc main {

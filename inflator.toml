@@ -1,8 +1,8 @@
-# inflator.toml syntax documentation: https://github.com/faretek1/inflator#inflator
+# inflator.toml syntax documentation: https://github.com/inflated-goboscript/inflator#inflator
 name = 'base'
 version = "v0.0.0"
 username = "inflated-goboscript"
 
 [dependencies]
-string = "https://github.com/inflated-goboscript/string"
-math = "https://github.com/inflated-goboscript/math"
+string = "string"
+math = "math"
